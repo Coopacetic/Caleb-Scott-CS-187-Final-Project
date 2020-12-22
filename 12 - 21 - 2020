@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+    CS 187 Final Project
+</title>
+<style>
+html {
+    height: 110%;
+    overflow: scroll;
+}
+h1 {
+    position: relative;
+    height: 350px;
+    top: 0;
+    left: 0;
+    background-image: url(https://i0.wp.com/thecity.ie/wp-content/uploads/2020/11/Dhai-UN-cyberspace.jpg?resize=1024%2C683&ssl=1);
+    background-size: cover;
+    background-position: center center;
+    padding: 0px;
+    color: white;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.5rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    position: relative;
+    margin-top: 0px;
+    padding: 0px;
+    background-position: center;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(46, 46, 46);
+    color: whitesmoke;
+}
+
+#academic, #personal {
+    font-size: 1rem;
+    line-height: 1.25;
+    width: 75%;
+    float: left;
+    padding: 5px;
+}
+nav-bar {
+    width: 15%;
+    top: 0;
+    float: right;
+}
+ul {
+    position: relative;
+    list-style-type: none;
+    float: right;
+    margin: 0;
+    width: 200px;
+    background-color: white;
+}
+
+li a {
+    display:block;
+    font-size: 1.25rem;
+    color: black;
+    padding: 1px 10px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: black;
+    color: white;
+}
+#academic {
+    text-indent: 20px;
+    display: block;
+    width: 75%;
+    padding-left: 100px;
+    padding-right: 10px;
+    margin: 10px;
+}
+#personal {
+    text-indent: 20px;
+    display: block;
+    width: 75%;
+    padding-left: 100px;
+    padding-right: 10px;
+    margin: 10px;
+}
+</style>
+</head>
+<body>
+<h1>CS 187 Final Project</h1>
+
+<h2>My Academic and Personal Development in CS 187</h2>
+
+<nav-bar>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">Home</a></li>
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">Research</li>
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">About</a></li>
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">Contact</a></li>
+    </ul>
+</nav-bar>
+    <p id="academic">
+    This year I took Computer Sci-187 with Professor Durupinar. I have never done web development so I was excited to learn everything I could. I learned not only about web development but the history of computers and robotics, Artificial Intelegence, Hacking, etc. Through slides and articles, I was able to get a grasp into the science behind the many technological advances we've made so far. It worked to give me context into the world I was entering as a Computer Science Major and I can say it made me very excited to learn and speculate more.<br>
+    </p1>
+    <p id="personal">
+    Throughout implementing what I've learned this semester I've gained an appreciation for the technology I take advantage of yet I have become cautious of putting too much trust into computers. Despite its incredible capablities, computers have limitations and flaws. Overall the course caused me to be curious with a caution.<br>
+    This is where I would add more information.
+    </p>
+</body>
+</html>

@@ -58,6 +58,7 @@ ul {
     list-style-type: none;
     float: right;
     margin: 0;
+    padding: 0px;
     width: 200px;
     background-color: white;
 }
